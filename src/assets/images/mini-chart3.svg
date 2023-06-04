@@ -1,0 +1,28 @@
+<svg width="53" height="37" viewBox="0 0 53 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.8">
+<line y1="1.19314" x2="52" y2="1.19315" stroke="#D2C0E4" stroke-width="0.6"/>
+<line x1="0.3" y1="1.49314" x2="0.299998" y2="37" stroke="#D2C0E4" stroke-width="0.6"/>
+<line x1="7.87275" y1="1.49314" x2="7.87275" y2="37" stroke="#D2C0E4" stroke-width="0.6"/>
+<line x1="14.9406" y1="1.49314" x2="14.9406" y2="37" stroke="#D2C0E4" stroke-width="0.6"/>
+<line x1="22.5139" y1="1.49314" x2="22.5139" y2="37" stroke="#D2C0E4" stroke-width="0.6"/>
+<line x1="30.0861" y1="1.49314" x2="30.0861" y2="37" stroke="#D2C0E4" stroke-width="0.6"/>
+<line x1="37.6594" y1="1.49314" x2="37.6594" y2="37" stroke="#D2C0E4" stroke-width="0.6"/>
+<line x1="44.7272" y1="1.49314" x2="44.7272" y2="37" stroke="#D2C0E4" stroke-width="0.6"/>
+<line x1="52.3" y1="1.49314" x2="52.3" y2="37" stroke="#D2C0E4" stroke-width="0.6"/>
+<line y1="5.6315" x2="52" y2="5.6315" stroke="#D2C0E4" stroke-width="0.6"/>
+<line y1="10.0699" x2="52" y2="10.0699" stroke="#D2C0E4" stroke-width="0.6"/>
+<line y1="14.5082" x2="52" y2="14.5082" stroke="#D2C0E4" stroke-width="0.6"/>
+<line y1="18.9466" x2="52" y2="18.9466" stroke="#D2C0E4" stroke-width="0.6"/>
+<line y1="23.3849" x2="52" y2="23.3849" stroke="#D2C0E4" stroke-width="0.6"/>
+<line y1="27.8233" x2="52" y2="27.8233" stroke="#D2C0E4" stroke-width="0.6"/>
+<line y1="32.2616" x2="52" y2="32.2616" stroke="#D2C0E4" stroke-width="0.6"/>
+<line y1="36.7" x2="52" y2="36.7" stroke="#D2C0E4" stroke-width="0.6"/>
+</g>
+<path d="M11.6418 23.3414C0.504854 21.7123 0 27.8767 0 27.8767V37H52V9.38356C49.8547 9.38356 45.539 15.6504 42.0781 17.5256C36.2141 20.703 30.6812 11.3222 24.9158 16.104C20.0575 20.1335 22.7788 24.9705 11.6418 23.3414Z" fill="url(#paint0_linear_266_184)"/>
+<defs>
+<linearGradient id="paint0_linear_266_184" x1="22.466" y1="-31.5479" x2="28.1003" y2="37.013" gradientUnits="userSpaceOnUse">
+<stop offset="0.245665" stop-color="#A794BA"/>
+<stop offset="0.991114" stop-color="#F4E9FF"/>
+</linearGradient>
+</defs>
+</svg>
